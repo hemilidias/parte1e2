@@ -66,7 +66,7 @@ public class JavaSimplesAtiv  { //Hemili Barbosa Dias 2-52 Atividades JAVA SIMPL
         System.out.println("             ..            ..       ");
         System.out.println("         ..                    ..   ");
         System.out.println("        ..                      ..  ");
-        System.out.println("        ..           .          ..  ");
+        System.out.println("        ..                      ..  ");
         System.out.println("        ..           .          ..  ");
         System.out.println("         ..          .         ..   ");
         System.out.println("           ..        .        ..    ");
